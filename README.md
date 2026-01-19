@@ -1,12 +1,12 @@
 # Ecommerce_Customer_Dataset - EDA using Python
 
-## 📌 Overview
+# Overview
 This project performs **Exploratory Data Analysis (EDA)** on an eCommerce customer dataset using Python.  
 The goal is to analyze the dataset, understand trends and patterns, and extract meaningful insights from customer behavior.
 
 ---
 
-## ✅ Project Includes
+# Project Includes
 - Data loading and understanding dataset structure
 - Data cleaning and preprocessing
 - Handling missing values and duplicates
@@ -16,7 +16,7 @@ The goal is to analyze the dataset, understand trends and patterns, and extract 
 
 ---
 
-## 📂 Dataset Source
+# Dataset Source
 - **Kaggle** (Ecommerce Customer Dataset)
 
 ---
@@ -31,7 +31,7 @@ The goal is to analyze the dataset, understand trends and patterns, and extract 
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 The repository is organized as follows:
 ```bash
 Ecommerce_Customer_Dataset_EDA/
@@ -44,7 +44,7 @@ Ecommerce_Customer_Dataset_EDA/
 └── requirements.txt                       # Libraries used
 
 
-## ▶️ How to Run This Project
+# How to Run This Project
 
 1. Download the dataset from Kaggle and place it in the `dataset/` folder.
 
@@ -66,7 +66,7 @@ seaborn
 scikit-learn
 
 
-## 🔍 Key Insights
+# Key Insights
 - Dataset was explored using descriptive statistics and visualizations.
 - Missing values and duplicate values (if any) were checked and handled.
 - Customer patterns were analyzed using distributions and correlation analysis.
@@ -79,3 +79,4 @@ scikit-learn
 This project performs Exploratory Data Analysis (EDA) on the Ecommerce Customer Dataset using Python.  
 The analysis provides useful insights into customer behavior and patterns using data visualization and statistics.  
 This EDA can help in building better business strategies and future machine learning models.
+
