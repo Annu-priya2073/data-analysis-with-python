@@ -57,7 +57,7 @@ jupyter notebook
 4.Run the notebook
 Ecommerce_customer_dataset_EDA.ipynb 
 
-📦 Requirements
+ Requirements
 Make sure your requirements.txt contains:
 pandas
 numpy
@@ -65,18 +65,17 @@ matplotlib
 seaborn
 scikit-learn
 
+ Key Insights
+Low-tenure customers show higher churn rates.
+Lower spending and fewer purchases are common among churned users.
+Strong correlations exist between spending-related features.
+PCA reduces dimensions while retaining most information.
+KMeans clustering reveals distinct customer segments (loyal vs churn-risk).
 
-# Key Insights
-- Dataset was explored using descriptive statistics and visualizations.
-- Missing values and duplicate values (if any) were checked and handled.
-- Customer patterns were analyzed using distributions and correlation analysis.
-- Visual analysis helped identify trends, outliers and feature relationships.
-- EDA results can be used for future prediction/segmentation tasks.
 
----
-
-## ✅ Conclusion
+# Conclusion
 This project performs Exploratory Data Analysis (EDA) on the Ecommerce Customer Dataset using Python.  
 The analysis provides useful insights into customer behavior and patterns using data visualization and statistics.  
 This EDA can help in building better business strategies and future machine learning models.
+
 
